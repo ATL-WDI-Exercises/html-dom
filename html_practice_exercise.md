@@ -29,5 +29,3 @@
 10. When you click on the image it should redirect to some other URL.
 
 11. Add an `alt` attribute to your image.
-
-11. Push the repo to your GitHub.
