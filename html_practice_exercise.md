@@ -2,7 +2,7 @@
 
 #### ASSIGNMENT - 15 min - create an html page on a topic of your choosing (weekend plans, post-wdi plans, favorite hobbies, etc.) and include the steps below. [Here is an example](http://taxi-driver-tom-14348.bitballoon.com/):
 
-1. Create an empty repo and git initialize it. Your finished `html` page should have at least 3 commits (of your choosing) by the time you're finished.
+1. Create an empty directory and create your html file. (BONUS - create a CSS file and link it).
 
 1. Include `doctype` and the other 3 basic section tags that a *proper* html page *must* have.
 
