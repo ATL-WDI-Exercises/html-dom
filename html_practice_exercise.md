@@ -1,7 +1,10 @@
 ## HTML Practice and Review Lab
 
 ### Assignment
-#### In the next 15 minutes, create an html page on a topic of your choosing (weekend plans, post-wdi plans, favorite hobbies, etc.) and include the steps below. At the end of the 15 minutes, take a screenshot of your browser and post it on slack.  I will choose the top two links, and ask you to present the site. [Here is an example](http://taxi-driver-tom-14348.bitballoon.com/):
+- In the next 15 minutes, create an html page on a topic of your choosing (weekend plans, post-wdi plans, favorite hobbies, etc.)
+- Include the steps below. 
+- Take a screenshot of your browser and post it on slack.  
+- I will choose the top two links, and ask you to present the site. [Here is an example](http://taxi-driver-tom-14348.bitballoon.com/):
 
 ### Spend 1 minute thinking about your topic.
 
