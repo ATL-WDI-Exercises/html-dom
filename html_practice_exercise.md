@@ -7,7 +7,9 @@
     - favorite hobbies
 - Include the steps below. 
 - Take a screenshot of your browser and post it on slack.  
-- I will choose the top two pics, and ask you to present the site. [Here is an example](http://executor-tapir-47648.bitballoon.com):
+- I will choose the top two pics, and ask you to present them. 
+
+[Here is an example](http://executor-tapir-47648.bitballoon.com).
 
 ### Spend 1 minute thinking about your topic.
 
