@@ -12,19 +12,19 @@
 ### Spend 1 minute thinking about your topic.
 
 
-### Spend 3 minutes doing the next two minutes creating an empty directory, your html file, and the basic tags 4 needed for an html file.
+### Spend 3 minutes creating an empty directory, an html file, and the 4 basic tags needed for on every html page.
 
 1. Create an empty directory and create your html file. (BONUS - create a CSS file and link it).
 
-1. Include `doctype` and the other 3 basic section tags and title tags that a *proper* html page *must* have. 
+1. Include a `doctype` and the 4 pairs of tags that a *proper* html page *must* have. 
 
 
 ### Spend 5 minutes going through the next 6 steps
 
 3. Include the following tags: 
-	- `p`
 	-  3 different `header` tags
 	-  at least 1 `div`
+    -  at least 1 `p`
 	-  at least 1 `span`
 
 4. Make a piece of text bold 
