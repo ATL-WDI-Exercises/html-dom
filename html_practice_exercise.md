@@ -14,7 +14,7 @@
 ### Spend 1 minute thinking about your topic.
 
 
-### Spend 3 minutes creating an empty directory, an html file, and the 4 basic tags needed for on every html page.
+### Spend 3 minutes creating an empty directory, an html file, with a doctype and the 4 basic tags needed for on every html page.
 
 1. Create an empty directory and create your html file. (BONUS - create a CSS file and link it).
 
