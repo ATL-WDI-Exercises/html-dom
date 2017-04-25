@@ -1,4 +1,4 @@
-## HTML Practice and Review Lab
+## HTML Practice Lab
 
 ### Assignment
 - In the next 15 minutes, create an html page on a topic of your choosing:
@@ -11,17 +11,17 @@
 
 [Here is an example](http://writer-mathew-68026.bitballoon.com/).
 
-### Spend 1 minute thinking about your topic.
+<bt />
 
+### Spend (at max) 1 minute thinking about your topic.
 
-### Spend 3 minutes creating an empty directory, an html file, with a doctype and the 4 basic tags needed for on every html page.
+### Spend (at max) 3 minutes creating an empty directory, an html file, with a doctype and the 4 basic tags needed for on every html page.
 
 1. Create an empty directory and create your html file. (BONUS - create a CSS file and link it).
 
 1. Include a `doctype` and the 4 pairs of tags that a *proper* html page *must* have. 
 
-
-### Spend 5 minutes going through the next 6 steps
+### Spend (at max) 5 minutes going through the next 6 steps
 
 3. Include the following tags: 
 	-  3 different `header` tags
@@ -39,8 +39,7 @@
 
 8. Include a line break tag
 
-
-### Spend 5 minutes adding the last 3 steps.
+### Spend (at max) 5 minutes adding the last 3 steps.
 
 9. Include an image
 
@@ -48,6 +47,7 @@
 
 11. Add an `alt` attribute to your image.
 
+**If you have any time leftover, add some styles to your page.**
 
 ### Spend the last minute.
 
