@@ -9,7 +9,7 @@
 - Take a screenshot of your browser and post it on slack.  
 - I will choose the top two screenshots, and ask you to present them. 
 
-[Here is an example](http://writer-mathew-68026.bitballoon.com/).
+[Here is an example](http://cartoonist-gravity-53213.bitballoon.com/).
 
 <bt />
 
