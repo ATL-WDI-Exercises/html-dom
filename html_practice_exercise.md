@@ -30,7 +30,7 @@ Before we begin:
 
 #### Spend (at max) 3 minutes creating an empty directory, an html file, with a doctype and the 4 basic tags needed for on every html page.
 
-1. Create an empty directory and create your html file. (BONUS - create a CSS file and link it).
+1. Create an html file. (BONUS - create an external CSS stylesheet and link it).
 
 1. Include a `doctype` and the 4 pairs of tags that a *proper* html page *must* have. 
 
