@@ -11,17 +11,30 @@
 
 [Here is an example](http://cartoonist-gravity-53213.bitballoon.com/).
 
-<bt />
+<br />
 
-### Spend (at max) 1 minute thinking about your topic.
+### We Do
 
-### Spend (at max) 3 minutes creating an empty directory, an html file, with a doctype and the 4 basic tags needed for on every html page.
+Before we begin: 
+    - cd your into `~/Desktop/ga` folder
+    - create (mkdir) a new folder called labs- `mkdir labs`
+    - cd into it- `cd labs`
+    - create (mkdir) a new folder called unit-01 - `mkdir unit-01`
+    - cd into it- `cd unit-01`
+    - create (mkdir) a new folder called html-practice-exercise- `mkdir html-practice-exercise`
+    - cd into it- `cd html-practice-exercise`
+
+### You Do
+
+#### Spend (at max) 1 minute thinking about your topic.
+
+#### Spend (at max) 3 minutes creating an empty directory, an html file, with a doctype and the 4 basic tags needed for on every html page.
 
 1. Create an empty directory and create your html file. (BONUS - create a CSS file and link it).
 
 1. Include a `doctype` and the 4 pairs of tags that a *proper* html page *must* have. 
 
-### Spend (at max) 5 minutes going through the next 6 steps
+#### Spend (at max) 5 minutes going through the next 6 steps
 
 3. Include the following tags: 
 	-  3 different `header` tags
@@ -39,7 +52,7 @@
 
 8. Include a line break tag
 
-### Spend (at max) 5 minutes adding the last 3 steps.
+#### Spend (at max) 5 minutes adding the last 3 steps.
 
 9. Include an image
 
@@ -49,6 +62,6 @@
 
 **If you have any time leftover, add some styles to your page.**
 
-### Spend the last minute.
+#### Spend your last minute.
 
 12. Upload a screenshot of your site in your browser to slack
