@@ -16,13 +16,13 @@
 ### We Do
 
 Before we begin: 
-    - cd your into `~/Desktop/ga` folder
-    - create (mkdir) a new folder called labs- `mkdir labs`
-    - cd into it- `cd labs`
-    - create (mkdir) a new folder called unit-01 - `mkdir unit-01`
-    - cd into it- `cd unit-01`
-    - create (mkdir) a new folder called html-practice-exercise- `mkdir html-practice-exercise`
-    - cd into it- `cd html-practice-exercise`
+- cd your into `~/Desktop/ga` folder
+- create (mkdir) a new folder called labs- `mkdir labs`
+- cd into it- `cd labs`
+- create (mkdir) a new folder called unit-01 - `mkdir unit-01`
+- cd into it- `cd unit-01`
+- create (mkdir) a new folder called html-practice-exercise- `mkdir html-practice-exercise`
+- cd into it- `cd html-practice-exercise`
 
 ### You Do
 
