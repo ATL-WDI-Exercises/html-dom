@@ -24,6 +24,8 @@ Before we begin:
 - create (mkdir) a new folder called html-practice-exercise- `mkdir html-practice-exercise`
 - cd into it- `cd html-practice-exercise`
 
+From here, follow the directions below:
+
 ### You Do
 
 #### Spend (at max) 1 minute thinking about your topic.
